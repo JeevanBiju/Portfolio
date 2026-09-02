@@ -1,6 +1,6 @@
 # Jeevan Biju — AI / Computer Vision Engineer
 
-🌐 **Live Website**: [https://portfolio-self-ten-19.vercel.app/](https://portfolio-self-ten-19.vercel.app/)
+🌐 **Live Website**: [https://jeevan-biju.vercel.app/](https://jeevan-biju.vercel.app/)
 
 Personal portfolio website for **Jeevan Biju**, an AI & Computer Vision Engineer building real-time, GPU-accelerated, and edge-deployed visual intelligence systems.
 
